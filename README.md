@@ -2,7 +2,9 @@
  It's a tool to recieve some feedbacks. <br>
  The user can take a screenshot and insert some comments about the problem/idea their are having at the moment. <br>
  When he send's the feedback, we save in a database and also send a e-mail with the image and the comment. <br>
- There is an app too, but it's not in any store
+ There is an app too, but it's not in any store<br>
+ 
+ `All the projects were written in TypeScript`
 
 ### Mobile Version
  The mobile version is made in react-native with Axios too <br><br>
